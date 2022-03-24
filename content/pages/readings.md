@@ -151,7 +151,7 @@ Arena, Umberto, Maria Laura Mastellone, et al. "[Life Cycle Assessment of a Plas
 
 Chandler, David L. "[3 Questions: Randolph Kirchain on the Spread of Electronic Waste](http://news.mit.edu/2013/3-questions-randolph-kirchain-on-the-spread-of-electronic-waste-1217)," _MIT News_, December 17, 2013.
 
-Olivetti, Elsa, Jeremy Gregory, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Life Cycle Impacts of Alkaline Batteries With a Focus on End‐Of‐Life." (PDF - 2.8MB)](http://recyclebattery.org/wp-content/uploads/2012/09/alkalinelca2011.pdf) _Study conducted for the National Electric Manufacturers Association_ (2011).
+Olivetti, Elsa, Jeremy Gregory, et al. ["Life Cycle Impacts of Alkaline Batteries With a Focus on End‐Of‐Life." (PDF - 2.8MB)](http://recyclebattery.org/wp-content/uploads/2012/09/alkalinelca2011.pdf) _Study conducted for the National Electric Manufacturers Association_ (2011).
 
 
 {{< tdclose >}}
@@ -287,7 +287,7 @@ Slater, Rachel, J. Frederickson, et al. "[A Critical Evaluation of Partnerships 
 
 Marconsin, Adauto Fernandes, and Derval dos Santos Rosa. "[A Comparison of Two Models for Dealing with Urban Solid Waste: Management by Contract and Management by Public-private Partnership](http://dx.doi.org/10.1016/j.resconrec.2013.02.005)." _Resources, Conservation and Recycling_ 74 (2013): 115–23.
 
-Chikarmane, Poornima. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Integrating Waste Pickers into Municipal Solid Waste Management in Pune, India." (PDF)](https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwio5dXhq9HMAhUFspQKHa8hBPYQFgglMAE&url=http%3A%2F%2Fwww.inclusivecities.org%2Fwp-content%2Fuploads%2F2012%2F10%2FChikarmane_WIEGO_PB8.pdf&usg=AFQjCNFy7nSjQqld3ZCQm5pqonlrZHXmxw&bvm=bv.121658157,d.dGo) _Women in Informal Employment: Globalizing and Organizing Policy Brief (Urban Policies)_ 8 (2012): 23.
+Chikarmane, Poornima. ["Integrating Waste Pickers into Municipal Solid Waste Management in Pune, India." (PDF)](https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwio5dXhq9HMAhUFspQKHa8hBPYQFgglMAE&url=http%3A%2F%2Fwww.inclusivecities.org%2Fwp-content%2Fuploads%2F2012%2F10%2FChikarmane_WIEGO_PB8.pdf&usg=AFQjCNFy7nSjQqld3ZCQm5pqonlrZHXmxw&bvm=bv.121658157,d.dGo) _Women in Informal Employment: Globalizing and Organizing Policy Brief (Urban Policies)_ 8 (2012): 23.
 
 
 {{< tdclose >}}
